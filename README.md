@@ -1,8 +1,20 @@
-# React + Vite
+<b>Frontend_Ecommerce</b>
+<h2>Features </h2>
+1-Login Page (Strictly need login info to ove further)
+2-Sign Up page (For adding new accound)
+3-Shopping Page (Listed Items)
+4-Item detailed Page (Contain Detail of individual items + reviews)
+5-Cart Page (Show the items you are willing to buy along with delete option and <b>Total Price</b>)
+6-Admin Page (Require Strict Login ...Email : Mehdi@gmail.com // Pass : 456)
+7-Admin Page Item adding section , Item deletion section and Account deletion section
+8-Buy Form (Includes Address Zip code etc)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<h2>How to use</h2>
+/=Create a new account on sign up page or One account already exits which is hard coded // Email:mehdi@gmail.com //Pass : 134
+/=Add or remove the account from admin page
+/=You could delete the product my SKU which may you see in the console
+/=You could move to individual section for checking weather product is deleted or added you just need to click on the Link above each section in admin section
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+ <h2>Working</h2>
+ /=It Loades dummy data from DummyJson Api call but still you could also adds your products and remove them other products via SkU 
+ /=As no DataBase is connected so on every reload the signup information will deleted and the products added or deleted will also be refreshed and new api Call will occur
