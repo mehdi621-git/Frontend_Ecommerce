@@ -17,4 +17,6 @@
 
  <h2>Working</h2>
  <b>/==</b>It Loades dummy data from DummyJson Api call but still you could also adds your products and remove them other products via SkU <br/>
- <b>/==</b>As no DataBase is connected so on every reload the signup information will deleted and the products added or deleted will also be refreshed and new api Call will occur
+ <b>/==</b>As no DataBase is connected so on every reload the signup information will deleted and the products added or deleted will also be refreshed and new api Call will occur<br/>
+ <h2>Technologies Used</h2>
+ <b>/==</b>This Project is made using Vite+React and other technologies such as <br> <b>/==</b> Redux ,Bootstrap ,Tailwind etc
