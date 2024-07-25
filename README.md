@@ -1,13 +1,13 @@
 <b>Frontend_Ecommerce</b>
 <h2>Features </h2>
-1-Login Page (Strictly need login info to ove further)
-2-Sign Up page (For adding new accound)
-3-Shopping Page (Listed Items)
-4-Item detailed Page (Contain Detail of individual items + reviews)
-5-Cart Page (Show the items you are willing to buy along with delete option and <b>Total Price</b>)
-6-Admin Page (Require Strict Login ...Email : Mehdi@gmail.com // Pass : 456)
-7-Admin Page Item adding section , Item deletion section and Account deletion section
-8-Buy Form (Includes Address Zip code etc)
+1-Login Page (Strictly need login info to ove further)<br/>
+2-Sign Up page (For adding new accound)<br/>
+3-Shopping Page (Listed Items)<br/>
+4-Item detailed Page (Contain Detail of individual items + reviews)<br/>
+5-Cart Page (Show the items you are willing to buy along with delete option and <b>Total Price</b>)<br/>
+6-Admin Page (Require Strict Login ...Email : Mehdi@gmail.com // Pass : 456)<br/>
+7-Admin Page Item adding section , Item deletion section and Account deletion section<br/>
+8-Buy Form (Includes Address Zip code etc)<br/>
 
 <h2>How to use</h2>
 /=Create a new account on sign up page or One account already exits which is hard coded // Email:mehdi@gmail.com //Pass : 134
