@@ -1,0 +1,92 @@
+.main{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+    flex-direction: column;
+    padding: 20px;
+
+
+}
+.text
+{
+    margin: 70px;
+    margin-bottom: 10px;
+    height: 50px;
+    display: flex;
+   
+    flex-direction: column;
+}
+.image{
+    display: flex;
+    
+    flex-direction: column;
+    gap: 10px;
+
+}
+.image{
+    height: 400px;
+    width: 400px;
+}
+.image:last-child{
+    height: 50px;
+    width: 50px;
+}
+.body{
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content:space-evenly;
+    align-items: center;
+    background-image:linear-gradient(270deg ,rgb(227, 243, 83),rgb(90, 147, 159));
+}
+.about{
+    display: flex;
+    height: 300px;
+}
+.price{
+    display: flex;
+    justify-content: space-around;
+    gap: 50px;
+}
+.price p{
+    font-size: 26px;
+    font-weight: 600;
+    color: red;
+}
+
+.buttond{
+    background-color: rgb(18, 95, 230);
+    padding: 10px;
+    border-radius: 10px;
+    color: #ffff;
+
+}
+.buttond:hover{
+     cursor: pointer;
+     
+}
+.reviews{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    align-items: center;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.cart{
+    background-color: rgba(0, 255, 136, 0.4);
+    height:50px;
+   
+}
+.carticon{
+    size: 40;
+    float: right;
+    margin: 20px;
+  
+}
+.carticon:hover{
+    cursor: pointer;
+}
