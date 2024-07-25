@@ -10,11 +10,11 @@
 8-<b>Buy Form</b> (Includes Address Zip code etc)<br/>
 
 <h2>How to use</h2>
-<b>/==</b>Create a new account on sign up page or One account already exits which is hard coded // Email:mehdi@gmail.com //Pass : 134
-<b>/==</b>Add or remove the account from admin page
-<b>/==</b>You could delete the product my SKU which may you see in the console
+<b>/==</b>Create a new account on sign up page or One account already exits which is hard coded // Email:mehdi@gmail.com //Pass : 134 <br>
+<b>/==</b>Add or remove the account from admin page<br/>
+<b>/==</b>You could delete the product my SKU which may you see in the console<br/>
 <b>/==</b>You could move to individual section for checking weather product is deleted or added you just need to click on the Link above each section in admin section
 
  <h2>Working</h2>
- <b>/==</b>It Loades dummy data from DummyJson Api call but still you could also adds your products and remove them other products via SkU 
+ <b>/==</b>It Loades dummy data from DummyJson Api call but still you could also adds your products and remove them other products via SkU <br/>
  <b>/==</b>As no DataBase is connected so on every reload the signup information will deleted and the products added or deleted will also be refreshed and new api Call will occur
